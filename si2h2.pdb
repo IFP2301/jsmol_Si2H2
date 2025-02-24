@@ -1,0 +1,10 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  Si          1     -12.267   0.014  -0.000                      SI
+HETATM    2  Si          1      -9.935  -0.014  -0.000                      SI
+HETATM    3  H           1     -12.784   1.410   0.000                      H 
+HETATM    4  H           1      -9.418  -1.410   0.000                      H 
+CONECT    1    2    3
+CONECT    2    1    4
+CONECT    3    1
+CONECT    4    2
+END
